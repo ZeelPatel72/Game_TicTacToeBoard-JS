@@ -1,0 +1,24 @@
+body {
+	margin: 20mm;
+}
+.jumbotron {
+	margin: 20mm;
+	align-self: center;
+	border-radius: 2%;
+	padding: 20mm;
+}
+.tab {
+	margin: auto;
+	border-width: 1mm;
+	border-color: black;
+	border-style: solid;
+}
+td {
+	width: 30mm;
+	height: 30mm;
+	border-width: 1mm;
+	border-color: black;
+	border-style: solid;
+	text-align: center;
+	font-size: 2cm;
+}
